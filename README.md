@@ -24,14 +24,14 @@
   -**2016-2017**
   -**Guntur,Andhra pradesh**
   
- ### Technichal skills:
-  -python
-  -C
-  -JAVA
-  -DBMS
-  -GIT and GITHUB
+### Technichal skills:
+ -python
+ -C
+ -JAVA
+ -DBMS
+ -GIT and GITHUB
   
- ### Certifications:
+### Certifications:
   -Completed **Python For everybody in coursera** 
   -certified by **Fullstack NanoDegree in Udacity**
   -certified by **machine learning in unschool**
